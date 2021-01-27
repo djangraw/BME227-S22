@@ -6,6 +6,6 @@ This repository will contain class code and assignments for UVM's Spring 2021 Bi
 
 ## Arduino Code
 Arduino code is provided that sends data from the Arduino board to the computer.
-This can be found in the [Arduino folder](/Arduino/).
+This can be found in the [Arduino folder](/ArduinoCode/).
 
 ## More to come!
