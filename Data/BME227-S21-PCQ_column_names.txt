@@ -1,0 +1,14 @@
+matlab_comfort
+python_comfort
+sigproc_comfort
+ml_comfort
+major
+gender
+student
+height
+hair_length
+six_fingers
+dogs_or_cats
+pick_a_number
+heads_or_tails
+real_coin

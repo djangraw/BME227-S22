@@ -1,0 +1,14 @@
+On a scale of 0 to 10, how comfortable do you feel with MATLAB programming?
+On a scale of 0 to 10, how comfortable do you feel with Python programming?
+On a scale of 0 to 10, how comfortable do you feel with signal processing?
+On a scale of 0 to 10, how comfortable do you feel with Machine Learning?
+What is your major?
+What is your gender?
+Are you a college student?
+How tall are you (in inches)?
+Approximately how long is your hair (in inches)?
+Do you have six fingers on your right hand?
+Which are better, dogs or cats?
+Pick a number 0 through 10.
+Flip a coin. Did you get heads or tails?
+In the last question, did you actually flip a physical coin?
