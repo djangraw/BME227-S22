@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Lab0_PythonTest.py
+PrintPythonTest.py
 
 Prints a welcome message to stdout.
 
